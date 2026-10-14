@@ -9,3 +9,4 @@ Small Express service with a full CI/CD pipeline.
 
 Pipeline: `.github/workflows/ci.yml` (lint + test on every push/PR, Docker Hub push from `main`).
 Required repository secrets: `DOCKERHUB_USERNAME`, `DOCKERHUB_TOKEN`.
+Pipeline tested.
